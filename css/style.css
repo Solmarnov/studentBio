@@ -1,0 +1,30 @@
+
+body {
+  background-color: black;
+  color: white;
+}
+header {
+  background-color: black;
+  text-align: center;
+  color: lightgray;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+article {
+  align-content: center;
+  text-align: center;
+  margin: 0 30rem;
+}
+
+ul {
+  padding: 0 18rem;
+}
+
+a {
+  color: orange;
+}
+
+a:visited {
+  color: lightgoldenrodyellow;
+}
